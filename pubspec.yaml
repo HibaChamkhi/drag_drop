@@ -1,7 +1,7 @@
 name: drag_drop
 description: "Drag And Drop Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/HibaChamkhi/drag_drop.git
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
